@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fosterclark/Desktop/VS Code/See_Sharp/HelloWorld.csproj": {}
+    "/Users/fosterclark/Desktop/VS Code/See_Sharp/MyHelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/Users/fosterclark/Desktop/VS Code/See_Sharp/HelloWorld.csproj": {
+    "/Users/fosterclark/Desktop/VS Code/See_Sharp/MyHelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fosterclark/Desktop/VS Code/See_Sharp/HelloWorld.csproj",
+        "projectUniqueName": "/Users/fosterclark/Desktop/VS Code/See_Sharp/MyHelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/Users/fosterclark/Desktop/VS Code/See_Sharp/HelloWorld.csproj",
+        "projectPath": "/Users/fosterclark/Desktop/VS Code/See_Sharp/MyHelloWorld/HelloWorld.csproj",
         "packagesPath": "/Users/fosterclark/.nuget/packages/",
-        "outputPath": "/Users/fosterclark/Desktop/VS Code/See_Sharp/obj/",
+        "outputPath": "/Users/fosterclark/Desktop/VS Code/See_Sharp/MyHelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fosterclark/.nuget/NuGet/NuGet.Config"

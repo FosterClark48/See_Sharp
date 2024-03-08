@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DIm512jTmfdbyJuMjac8yl772YApjM7XoO3zqg6fpd4wovHza716a4EsxIPrmtGYB6k7LaXhk2F973Esw1zQ3w==",
+  "dgSpecHash": "d5D2vaRhbpqvaLQWM++slR0GJE/NrbgTuc3keM0jtFouT42kRDDVHygys12B16sOQIJhgpywB7TsZ9OWRoo54g==",
   "success": true,
-  "projectFilePath": "/Users/fosterclark/Desktop/VS Code/See_Sharp/HelloWorld.csproj",
+  "projectFilePath": "/Users/fosterclark/Desktop/VS Code/See_Sharp/MyHelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
