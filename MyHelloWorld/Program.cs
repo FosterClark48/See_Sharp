@@ -1,10 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System;
+﻿using MyNamespace;
 
 class Hello
 {
   static void Main()
   {
-    Console.WriteLine("Hello, World!");
+    MyClass.MyFunc();
   }
 }
